@@ -25,7 +25,7 @@ Interactive dashboard tracking:
 - Revenue by Category & Age Group  
 - Customer Segmentation & Trends  
 - Filters: Gender, Category, Subscription, Shipping  
-
+<img width="1154" height="637" alt="Screenshot 2026-04-25 171330" src="https://github.com/user-attachments/assets/c3601f85-addf-4527-ac3c-a55eb6586496" />
 
 ---
 
